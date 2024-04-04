@@ -1,0 +1,40 @@
+
+// TASK 1
+img {
+  height: 150px; 
+}
+
+// TASK 2
+.description {
+  font-size: 20px;
+}
+
+// TASK 3
+#cook-time {
+  font-weight: bold;
+}
+
+// TASK 4
+.ingredients li {
+  list-style: square;
+}
+
+// TASK 5
+p.time { 
+  color: gray;
+}
+
+// TASK 6
+.external-link {
+  color: SeaGreen;
+}
+
+// TASK 7
+h1, h2, p, li {
+  font-family: Helvetica;
+}
+
+
+
+
+
